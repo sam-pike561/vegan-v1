@@ -4,11 +4,11 @@ import product3 from '../../images/product-3.jpg';
 import sweet1 from '../../images/sweet3.jpg';
 import sweet2 from '../../images/sweet-2.jpg';
 import sweet3 from '../../images/sweet-3.jpg';
-import ImgBg from '../../images/ultimate-veggie-burger.webp';
-import ImgMsh from '../../images/Smashroom.webp';
-import ImgChkn from '../../images/fried-chicken-sandwiches-with-slaw-and-spicy-mayo.webp';
-import ImgBananaCakes from '../../images/Vegan_Banana_Oatmeal_Pancake_16x9.webp';
-import ImgHalvah from '../../images/salted-chocolate-halva.webp';
+import ImgBg from '../../images/smash-burger.jpeg';
+import ImgMsh from '../../images/Smashroom.jpeg';
+import ImgChkn from '../../images/chicken-sandwich.jpeg';
+import ImgBananaCakes from '../../images/banana-pancakes.jpeg';
+import ImgHalvah from '../../images/halva.jpeg';
 
 
 
