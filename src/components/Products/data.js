@@ -1,14 +1,9 @@
-import product1 from '../../images/product-1.jpg';
-import product2 from '../../images/product-2.jpg';
-import product3 from '../../images/product-3.jpg';
-import sweet1 from '../../images/sweet3.jpg';
 import sweet2 from '../../images/sweet-2.jpg';
-import sweet3 from '../../images/sweet-3.jpg';
-import ImgBg from '../../images/smash-burger.jpeg';
-import ImgMsh from '../../images/Smashroom.jpeg';
-import ImgChkn from '../../images/chicken-sandwich.jpeg';
-import ImgBananaCakes from '../../images/banana-pancakes.jpeg';
-import ImgHalvah from '../../images/halva.jpeg';
+import ImgBg from '../../images/smash-burger.jpg';
+import ImgMsh from '../../images/Smashroom.jpg';
+import ImgChkn from '../../images/chicken-sandwich.jpg';
+import ImgBananaCakes from '../../images/banana-pancakes.jpg';
+import ImgHalvah from '../../images/halva.jpg';
 
 
 
