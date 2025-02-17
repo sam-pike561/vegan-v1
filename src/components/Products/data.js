@@ -31,7 +31,7 @@ export const productData = [
   {
     img: ImgChkn,
     alt: 'ChickenSandwich',
-    name: 'Crunchy Chicken Sandwich',
+    name: 'Crunchy Salumi Sandwich',
     desc:
       'coleslaw, banana peppers, vegan cajun aioli, impossible chicken on ciabbata roll',
     price: '$14.99',
